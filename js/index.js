@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: '/assets/Girls Like You.mp3',
+        path: 'assets/Girls Like You.mp3',
         displayName: 'Girls Like You',
-        cover: '/assets/1.jpg',
+        cover: 'assets/1.jpg',
         artist: 'Maroon 5',
     },
     {
-        path: '/assets/Love Me Like You Do.mp3',
+        path: 'assets/Love Me Like You Do.mp3',
         displayName: 'Love Me Like You Do',
-        cover: '/assets/3.jpg',
+        cover: 'assets/3.jpg',
         artist: 'Ellie Goulding',
     },
     {
-        path: '/assets/Solo.mp3',
+        path: 'assets/Solo.mp3',
         displayName: 'Solo',
-        cover: '/assets/2.jpg',
+        cover: 'assets/2.jpg',
         artist: 'Clean Bandit',
     }
 ];
